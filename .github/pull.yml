@@ -1,0 +1,7 @@
+version: "1"
+rules:
+  - base: main
+    upstream: TryGhost:main
+    mergeMethod: merge
+  - base: develop
+    upstream: main
