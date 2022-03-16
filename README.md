@@ -1,3 +1,9 @@
+# ViaSnake/Ease
+
+Theme for [www.mcplay.biz](https://www.mcplay.biz).
+
+---
+
 # Ease
 
 A versatile theme suitable for documentation. Publish your posts or business information with ease. Completely free and fully responsive, released under the MIT license.
