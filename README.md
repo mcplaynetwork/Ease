@@ -1,4 +1,4 @@
-# ViaSnake/Ease
+# MCPlayNetwork/Ease
 
 Theme for [www.mcplay.biz](https://www.mcplay.biz).
 
