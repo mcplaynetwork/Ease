@@ -3,8 +3,7 @@
     "description": "A Ghost theme",
     "version": "1.0.0",
     "engines": {
-        "ghost": ">=4.0.0",
-        "ghost-api": "v4"
+        "ghost": ">=4.0.0"
     },
     "license": "MIT",
         "author": {
@@ -82,8 +81,8 @@
     "devDependencies": {
         "autoprefixer": "10.4.4",
         "beeper": "2.1.0",
-        "cssnano": "5.1.4",
-        "gscan": "4.22.0",
+        "cssnano": "5.1.7",
+        "gscan": "4.27.0",
         "gulp": "4.0.2",
         "gulp-concat": "2.6.1",
         "gulp-livereload": "4.0.2",
@@ -94,7 +93,7 @@
         "postcss": "8.4.12",
         "postcss-easy-import": "4.0.0",
         "pump": "3.0.0",
-        "stylelint": "14.6.0",
+        "stylelint": "14.6.1",
         "stylelint-config-standard": "25.0.0",
         "stylelint-order": "5.0.0"
     }
