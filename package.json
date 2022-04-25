@@ -79,7 +79,7 @@
         "zip": "gulp zip"
     },
     "devDependencies": {
-        "autoprefixer": "10.4.4",
+        "autoprefixer": "10.4.5",
         "beeper": "2.1.0",
         "cssnano": "5.1.7",
         "gscan": "4.27.0",
@@ -93,7 +93,7 @@
         "postcss": "8.4.12",
         "postcss-easy-import": "4.0.0",
         "pump": "3.0.0",
-        "stylelint": "14.6.1",
+        "stylelint": "14.7.1",
         "stylelint-config-standard": "25.0.0",
         "stylelint-order": "5.0.0"
     }
