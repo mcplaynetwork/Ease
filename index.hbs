@@ -14,7 +14,7 @@
                                 <header class="topic-header">
                                     <h2 class="topic-name">{{name}}</h2>
                                     <div class="topic-count">
-                                        {{plural count.posts empty="No articles" singular="1 article" plural="% articles"}}
+                                        {{plural count.posts empty="投稿がありません" singular="1本の投稿" plural="%本の投稿"}}
                                     </div>
                                 </header>
                                 {{#get "posts" order="published_at asc" filter="tag:{{slug}}"
@@ -31,7 +31,7 @@
                                         {{/foreach}}
                                     </ul>
                                 {{/get}}
-                                <a class="topic-more button-arrow button-arrow-right" href="{{url}}">View All</a>
+                                <a class="topic-more button-arrow button-arrow-right" href="{{url}}">すべてみる</a>
                             </section>
                         </div>
                     {{/foreach}}
