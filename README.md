@@ -1,20 +1,12 @@
-# ViaSnake/Ease
-
-Theme for [www.mcplay.biz](https://www.mcplay.biz).
-
----
-
 # Ease
 
-A versatile theme suitable for documentation. Publish your posts or business information with ease. Completely free and fully responsive, released under the MIT license.
-
-**Demo: https://ease.ghost.io**
+Ghost theme used on official MCPlayNetwork website. This is a Fork of the theme published on TryGhost/Ease and released under the MIT license.
 
 &nbsp;
 
 # Instructions
 
-1. [Download this theme](https://github.com/TryGhost/Ease/archive/main.zip)
+1. [Download this theme](https://github.com/MCPlayNetwork/Ease/archive/main.zip)
 2. Log into Ghost, and go to the `Design` settings area to upload the zip file
 
 # Search
