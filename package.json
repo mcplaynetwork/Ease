@@ -81,8 +81,8 @@
     "devDependencies": {
         "autoprefixer": "10.4.7",
         "beeper": "2.1.0",
-        "cssnano": "5.1.10",
-        "gscan": "4.31.1",
+        "cssnano": "5.1.11",
+        "gscan": "4.31.2",
         "gulp": "4.0.2",
         "gulp-concat": "2.6.1",
         "gulp-livereload": "4.0.2",
@@ -93,8 +93,8 @@
         "postcss": "8.4.14",
         "postcss-easy-import": "4.0.0",
         "pump": "3.0.0",
-        "stylelint": "14.8.5",
-        "stylelint-config-standard": "25.0.0",
+        "stylelint": "14.9.0",
+        "stylelint-config-standard": "26.0.0",
         "stylelint-order": "5.0.0"
     }
 }
