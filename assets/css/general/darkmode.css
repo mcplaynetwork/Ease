@@ -1,0 +1,66 @@
+@media (prefers-color-scheme: dark) {
+  :root {
+    --main-text: #ddd;
+    --main-bg: #000;
+    --light-gray-color: #f1f1f1;
+    --lighter-gray-color: #f7f7f7;
+    --mid-gray-color: #e6e6e6;
+    --dark-gray-color: #1a1a1a;
+  }
+
+  .site-header {
+    background-color: var(--main-bg);
+  }
+
+  body {
+    color: var(--main-text);
+    background: var(--main-bg);
+    background-color: var(--main-bg);
+  }
+
+  a {
+    color: var(--main-text);
+  }
+
+  a:not(.kg-btn):not(.kg-product-card-button):hover {
+    color: var(--primary-color);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--light-gray-color);
+  }
+
+  thead {
+    border-bottom: 1px solid var(--lighter-gray-color);
+    background-color: var(--mid-gray-color);
+  }
+
+  tr + tr {
+    border-top: 1px solid var(--mid-gray-color);
+  }
+
+  tr:hover td {
+    background-color: var(--lighter-gray-color);
+  }
+
+  th {
+    color: var(--secondary-text-color);
+  }
+
+  tfoot {
+    border-top: 1px solid var(--dark-gray-color);
+  }
+
+  figcaption {
+    color: var(--lighter-gray-color);
+  }
+
+  hr {
+    background-color: var(--secondary-text-color);
+  }
+
+  hr::after {
+    background-color: var(--secondary-text-color);
+  }
+}
+
